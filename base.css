@@ -1,0 +1,14 @@
+nav {
+    display: block;
+}
+li {
+    width: 50%;
+    font-size: 2em;
+	text-align: center;
+	float: left;
+    list-style-type: none;
+}
+
+html {
+    background-color: bisque;
+}
